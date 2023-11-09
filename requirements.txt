@@ -1,0 +1,14 @@
+pytest
+assertpy
+allure-pytest
+requests
+selenium
+webdriver_manager
+pydantic
+pytest-html
+pytest_bdd==4.0.1
+requests-aws4auth==1.0.1
+multipledispatch==0.6.0
+pytz==2020.5
+pyodbc==4.0.30
+pytest-xdist
