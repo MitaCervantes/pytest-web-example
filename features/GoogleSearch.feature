@@ -1,6 +1,6 @@
 Feature:GoogleSearch
 
-@
+@Smoke
   Scenario Outline: The client search by word
     Given The client is in google page
     When The client search for word <text>
